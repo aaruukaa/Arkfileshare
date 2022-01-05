@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/tobangen/File-Sharing-Man",
+  "repository": "https://github.com/tobangen/Arkfileshare",
   "logo": "https://telegra.ph/file/c45b4f24c8200484280b5.png",
   "env": {
     "TG_BOT_TOKEN": {

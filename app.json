@@ -55,7 +55,7 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "Lunatic0de",
+      "value": "nolpercent",
       "required": false
     },
   },

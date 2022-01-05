@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/aaruukaa/depolay)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/aaruukaa/File-Deploy)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -36,7 +36,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 /batch - buat link untuk lebih dari satu posting
 
-/genlink - buat link untuk satu posting
+/getlink - buat link untuk satu posting
 
 /users - lihat statistik pengguna bot
 

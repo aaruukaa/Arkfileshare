@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report ke [@aaruuka](https://www.telegram.org/aaruukaa)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report ke [@rubahvenus](https://www.telegram.org/rubahvenus)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
